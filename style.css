@@ -93,8 +93,8 @@ color: #fff;
 
 #social{
 				margin:5rem auto 0 auto;
-				width: auto;
-				display: block;
+				display:flex;
+				justify-content: center;
 				}
 
 #social svg{
