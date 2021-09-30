@@ -156,11 +156,11 @@ top: 3rem;
 			}
 }
 
-@media(min-width:1000px){
+@media(min-width:1300px){
 				main>img{
-				width:55%;
+				width:unset;
 				}
 				#texts{
-								width: 45%;
+								width: unset;
 				}
 }
