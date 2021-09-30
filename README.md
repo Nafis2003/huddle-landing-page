@@ -2,6 +2,7 @@
 
 ![Design preview for the Huddle landing page with single introductory section](./design/desktop-preview.jpg)
 
+Live preview :https://nafis2003.github.io/huddle-landing-page/
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
